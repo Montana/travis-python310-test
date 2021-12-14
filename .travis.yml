@@ -2,5 +2,5 @@
 install: skip
 language: python
 python:
-  - 3.11-dev
+  - 3.10.1-dev
 script: skip
